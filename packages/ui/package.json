@@ -34,6 +34,8 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "ag-grid-community": "^31.0.0",
+    "ag-grid-react": "^31.0.0",
     "zustand": "^5.0.12"
   }
 }
