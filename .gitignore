@@ -8,6 +8,7 @@ node_modules
 
 # ui package build output
 packages/*/dist
+packages/*/src/*.built.css
 *.tgz
 
 # testing
